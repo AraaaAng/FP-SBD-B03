@@ -7,5 +7,5 @@
 | Nama                            | NRP          |
 | ------------------------------- | ------------ |
 | Mutiara Nurhaliza               | `5027221010` |
-| Rehana Putri Salsabila          | `5027221017` |
-| Jonathan Adithiya Baswara       | `5027221063` |
+| Rehana Putri Salsabila          | `5027221015` |
+| Jonathan Adithiya Baswara       | `5027221062` |
