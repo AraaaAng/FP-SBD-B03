@@ -20,8 +20,6 @@ WHERE
     d.tanggal > '2023-01-01' AND dd.Nama NOT LIKE '%Test%'
 GROUP BY
     dd.Nama
-HAVING
-    Total_Donasi > 1000
 ORDER BY
     Rata_Rata_Donasi DESC, Donatur ASC;
 
